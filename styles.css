@@ -1,0 +1,147 @@
+body {
+  margin: 0;  
+  padding: 0;
+}
+
+h2 {
+    margin-top: 50;
+    
+
+}
+
+.header {
+    font-size: 18px;
+    background-color: #1F2937;
+    background-repeat: no-repeat;
+    background-size: 100vh;
+    color: white;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0px;
+    padding-bottom: 100px;  
+
+
+}
+
+.hero {
+   background-color: #1F2937; 
+   color: white;
+   margin-top: 0px;
+   padding-top: 0px;
+   display: flex;
+   justify-content: center;
+   font-size: 25px;
+   padding-bottom: 100px;
+   
+}
+
+.hero-text {
+    display: flex;
+    font-size: 20px;
+    
+}
+
+.logo {
+    margin-left: 60px;
+}
+
+.header-links {
+    display: flex;
+    flex-direction: column;
+    margin-right: 60px;
+}
+
+ul {
+    display: flex;
+    gap: 30px;
+    text-decoration-style: none;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.button-hero {
+    padding-bottom: 50px;
+}
+
+
+h1 {
+    font-size: 18px;
+}
+
+.card {
+    
+}
+
+.info-cards {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    padding: 30px;
+}
+
+.info-header {
+    justify-content: center;
+    display: flex;
+    margin: 20px;
+    font-size: 25px;
+    
+}
+
+img {
+    border-radius: 4px;
+    border: 3px;
+    border-color: blue;
+    width: 200px;
+    height: 200px;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    display: flex;
+    justify-content: center;
+    padding: 75px;
+
+}
+
+.container-action {
+    background-color: #3882F8;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    background-size: 200px;
+    max-width: 1000px;
+    min-width: 900px;
+
+    
+    
+}
+
+.action-text {
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+.call-to-action {
+    padding: 100px; 
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.buy-btn {
+    color: white;
+    border: #E5E7EB;
+    border-width: 2px;
+    padding: 5px 6px;
+    margin-left: 25px;
+    border-radius: 6px;
+    align-self: center;
+    border-style: solid;
+} 
